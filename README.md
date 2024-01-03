@@ -1,5 +1,5 @@
 # College-Planner-Application
-An Android college planner application written in Kotlin.
+A group project for an Android college planner application written in Kotlin.
 
 # Home Screen
 Within the Home tab, a user may click on a date within a calendar to see which assignment or exam is due for that day.
